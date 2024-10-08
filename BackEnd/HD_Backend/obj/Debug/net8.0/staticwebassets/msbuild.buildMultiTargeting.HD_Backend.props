@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HD_Backend.props" />
+</Project>

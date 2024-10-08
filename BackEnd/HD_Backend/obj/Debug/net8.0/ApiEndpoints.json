@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "HD_Backend.Controllers.ContactsController",
+    "Method": "CreateContact",
+    "RelativePath": "Contacts/CreateContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "phone",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HD_Backend.Controllers.ContactsController",
+    "Method": "GetContacts",
+    "RelativePath": "Contacts/GetAllContacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
